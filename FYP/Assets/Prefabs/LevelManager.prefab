@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2361864587001047737
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2361864587001047687}
+  - component: {fileID: 2361864587001047736}
+  m_Layer: 0
+  m_Name: LevelManager
+  m_TagString: LevelManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2361864587001047687
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2361864587001047737}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2361864587001047736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2361864587001047737}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ef15378e6bf1de4791dd77b75ebf1fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnPoint: {x: 0, y: -3.72, z: -5}
+  player: {fileID: 2060944567480078642, guid: 106d02f54bd07bb409ff171435e253d8, type: 3}
+  weatherSystem: {fileID: 4224141005952726473, guid: b958a7d0c0f71c24baad7e5bdad58dd7, type: 3}
+  menu: {fileID: 4330633218578877326, guid: 714c2b3a01fd99c4090459e44a269619, type: 3}
+  gameManager: {fileID: 2934327759946488301, guid: 7863fa524e9337b4483c0cb6c75c6398, type: 3}
+  cutsceneManger: {fileID: 8339642389551128415, guid: af8241da146dfd94193bb726532581f5, type: 3}
+  startCutscene: {fileID: 565382982331110437, guid: d25ae8e40177af84a9823f11ef665a87, type: 3}

@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 84789398abb9da34ca69fa05fdc113d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8204098019875491820
+    second: FYP_UIDesignVer5_Contrast_0
+  - first:
+      213: 8499708157588651920
+    second: FYP_UIDesignVer5_Contrast_1
+  - first:
+      213: 4678114252933150595
+    second: FYP_UIDesignVer5_Contrast_2
+  - first:
+      213: 4301409648846924882
+    second: FYP_UIDesignVer5_Contrast_3
+  - first:
+      213: 6441587931028158233
+    second: FYP_UIDesignVer5_Contrast_4
+  - first:
+      213: 708298958815745382
+    second: FYP_UIDesignVer5_Contrast_5
+  - first:
+      213: 846080096568476510
+    second: FYP_UIDesignVer5_Contrast_6
+  - first:
+      213: -4017603128870681403
+    second: FYP_UIDesignVer5_Contrast_7
+  - first:
+      213: -5244462854990038733
+    second: FYP_UIDesignVer5_Contrast_8
+  - first:
+      213: -1067008988227928539
+    second: FYP_UIDesignVer5_Contrast_9
+  - first:
+      213: 4505483093057081842
+    second: FYP_UIDesignVer5_Contrast_10
+  - first:
+      213: 378248783710831570
+    second: FYP_UIDesignVer5_Contrast_11
+  - first:
+      213: 1801878534934600061
+    second: FYP_UIDesignVer5_Contrast_12
+  - first:
+      213: 5488034692582201195
+    second: FYP_UIDesignVer5_Contrast_13
+  - first:
+      213: 1200222856265367617
+    second: FYP_UIDesignVer5_Contrast_14
+  - first:
+      213: -7942536585611288925
+    second: FYP_UIDesignVer5_Contrast_15
+  - first:
+      213: -3494875465335713587
+    second: FYP_UIDesignVer5_Contrast_16
+  - first:
+      213: -4752003484888115062
+    second: FYP_UIDesignVer5_Contrast_17
+  - first:
+      213: 1519479373720616042
+    second: FYP_UIDesignVer5_Contrast_18
+  - first:
+      213: -1328099616723480089
+    second: FYP_UIDesignVer5_Contrast_19
+  - first:
+      213: -4365737075436186630
+    second: FYP_UIDesignVer5_Contrast_20
+  - first:
+      213: -4803462285889185217
+    second: FYP_UIDesignVer5_Contrast_21
+  - first:
+      213: -8026601627177081790
+    second: FYP_UIDesignVer5_Contrast_22
+  - first:
+      213: -2556043084798715675
+    second: FYP_UIDesignVer5_Contrast_23
+  - first:
+      213: -8005391335420319499
+    second: FYP_UIDesignVer5_Contrast_24
+  - first:
+      213: -845676131010194507
+    second: FYP_UIDesignVer5_Contrast_25
+  - first:
+      213: 5778009503569967545
+    second: FYP_UIDesignVer5_Contrast_26
+  - first:
+      213: -4198788247305330860
+    second: FYP_UIDesignVer5_Contrast_27
+  - first:
+      213: -2488583210931847378
+    second: FYP_UIDesignVer5_Contrast_28
+  - first:
+      213: 2979207671877446384
+    second: FYP_UIDesignVer5_Contrast_29
+  - first:
+      213: -6201969092966949105
+    second: FYP_UIDesignVer5_Contrast_30
+  - first:
+      213: -6636979998417682977
+    second: FYP_UIDesignVer5_Contrast_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2096
+        width: 727
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410f5de6150352e80800000000000000
+      internalID: -8204098019875491820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_1
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 2330
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fbf83398705f570800000000000000
+      internalID: 8499708157588651920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_2
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 2003
+        width: 295
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387b5c890200ce040800000000000000
+      internalID: 4678114252933150595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_3
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2000
+        width: 295
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c65f8294da1bb30800000000000000
+      internalID: 4301409648846924882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_4
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1996
+        width: 293
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9177062281e156950800000000000000
+      internalID: 6441587931028158233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_5
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 2006
+        width: 295
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665ddfa762264d900800000000000000
+      internalID: 708298958815745382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_6
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 1996
+        width: 295
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e530e777d51edbb00800000000000000
+      internalID: 846080096568476510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_7
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1991
+        width: 295
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c44a2f8d3b9e38c0800000000000000
+      internalID: -4017603128870681403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_8
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 2287
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339769ad1dce737b0800000000000000
+      internalID: -5244462854990038733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1736
+        width: 725
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e768c7af83131f0800000000000000
+      internalID: -1067008988227928539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_10
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 1971
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f112378001b68e30800000000000000
+      internalID: 4505483093057081842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1369
+        width: 727
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3cec5c34fcf3500800000000000000
+      internalID: 378248783710831570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_12
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1657
+        width: 295
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d799d231bfe810910800000000000000
+      internalID: 1801878534934600061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_13
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1652
+        width: 293
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67d16ed97a692c40800000000000000
+      internalID: 5488034692582201195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_14
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1648
+        width: 293
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1408007245c08a010800000000000000
+      internalID: 1200222856265367617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_15
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 1648
+        width: 295
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae58178e0176c190800000000000000
+      internalID: -7942536585611288925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_16
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 1640
+        width: 301
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0df6ae745bf7fc0800000000000000
+      internalID: -3494875465335713587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_17
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 1623
+        width: 295
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8853d7f10e7d0eb0800000000000000
+      internalID: -4752003484888115062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 975
+        width: 725
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c762a9076461510800000000000000
+      internalID: 1519479373720616042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_19
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1279
+        width: 338
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e15dd66f64a19de0800000000000000
+      internalID: -1328099616723480089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_20
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1261
+        width: 338
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af39fd3b249c963c0800000000000000
+      internalID: -4365737075436186630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_21
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 1171
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad695308ca65db0800000000000000
+      internalID: -4803462285889185217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_22
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 581
+        width: 725
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244a98ac858cb9090800000000000000
+      internalID: -8026601627177081790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_23
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 895
+        width: 338
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e89afb5b5c178cd0800000000000000
+      internalID: -2556043084798715675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_24
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 891
+        width: 337
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8284caef227e090800000000000000
+      internalID: -8005391335420319499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_25
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 73
+        width: 1302
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b35c181a0e8344f0800000000000000
+      internalID: -845676131010194507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_26
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 525
+        width: 336
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b97e11c70d9f2050800000000000000
+      internalID: 5778009503569967545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 83
+        width: 274
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fd740d558eab5c0800000000000000
+      internalID: -4198788247305330860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_28
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 83
+        width: 274
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ff76631c6c67dd0800000000000000
+      internalID: -2488583210931847378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_29
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 88
+        width: 272
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faaf52d795485920800000000000000
+      internalID: 2979207671877446384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_30
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 87
+        width: 274
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fd0c928fd2ee9a0800000000000000
+      internalID: -6201969092966949105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FYP_UIDesignVer5_Contrast_31
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 83
+        width: 274
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddf0fc0bd5b4e3a0800000000000000
+      internalID: -6636979998417682977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
